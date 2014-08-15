@@ -1,4 +1,4 @@
-# IDNA
+# IDN
 * **Contributors**: extendwings,
 * **Donate link**: http://www.extendwings.com/donate/
 * **Tags**: domain, idna, idn, i18n,

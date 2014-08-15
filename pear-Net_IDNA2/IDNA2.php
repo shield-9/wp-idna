@@ -23,8 +23,8 @@
 //
 
 // }}}
-require_once dirname(plugin_basename(__FILE__)) . '/pear-Net_IDNA2/IDNA2/Exception.php';
-require_once dirname(plugin_basename(__FILE__)) . '/pear-Net_IDNA2/IDNA2/Exception/Nameprep.php';
+require_once plugin_dir_path( __FILE__ ) . 'IDNA2/Exception.php';
+require_once plugin_dir_path( __FILE__ ) . 'IDNA2/Exception/Nameprep.php';
 
 /**
  * Encode/decode Internationalized Domain Names.
